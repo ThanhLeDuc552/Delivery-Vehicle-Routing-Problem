@@ -1,0 +1,5 @@
+[
+  { "id": "V1", "capacity": 120, "baseSpeedMetersPerSecond": 14.4, "maxRouteSeconds": 21600 },
+  { "id": "V2", "capacity": 100, "baseSpeedMetersPerSecond": 12.2, "maxRouteSeconds": 25200 },
+  { "id": "V3", "capacity": 140, "baseSpeedMetersPerSecond": 13.6, "maxRouteSeconds": 28800 }
+]

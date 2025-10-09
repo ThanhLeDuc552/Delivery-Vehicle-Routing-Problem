@@ -1,0 +1,74 @@
+[
+  {
+    "id": "C1",
+    "demand": 10,
+    "latitude": 10.7870,
+    "longitude": 106.6800,
+    "earliestStartSec": 30600,
+    "latestEndSec": 39600,
+    "serviceTimeSec": 600
+  },
+  {
+    "id": "C2",
+    "demand": 20,
+    "latitude": 10.8500,
+    "longitude": 106.6200,
+    "earliestStartSec": 32400,
+    "latestEndSec": 43200,
+    "serviceTimeSec": 900
+  },
+  {
+    "id": "C3",
+    "demand": 30,
+    "latitude": 10.8000,
+    "longitude": 106.7000,
+    "earliestStartSec": 36000,
+    "latestEndSec": 46800,
+    "serviceTimeSec": 900
+  },
+  {
+    "id": "C4",
+    "demand": 15,
+    "latitude": 10.8100,
+    "longitude": 106.6400,
+    "earliestStartSec": 31500,
+    "latestEndSec": 37800,
+    "serviceTimeSec": 600
+  },
+  {
+    "id": "C5",
+    "demand": 25,
+    "latitude": 10.8300,
+    "longitude": 106.6600,
+    "earliestStartSec": 39600,
+    "latestEndSec": 50400,
+    "serviceTimeSec": 600
+  },
+  {
+    "id": "C6",
+    "demand": 10,
+    "latitude": 10.7950,
+    "longitude": 106.6500,
+    "earliestStartSec": 34200,
+    "latestEndSec": 41400,
+    "serviceTimeSec": 600
+  },
+  {
+    "id": "C7",
+    "demand": 20,
+    "latitude": 10.8200,
+    "longitude": 106.6800,
+    "earliestStartSec": 43200,
+    "latestEndSec": 54000,
+    "serviceTimeSec": 900
+  },
+  {
+    "id": "C8",
+    "demand": 30,
+    "latitude": 10.8400,
+    "longitude": 106.6400,
+    "earliestStartSec": 46800,
+    "latestEndSec": 57600,
+    "serviceTimeSec": 600
+  }
+]
